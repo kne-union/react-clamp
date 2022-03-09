@@ -9,7 +9,7 @@ const Clamp = ({tagName, text, width, options, ...props}) => {
     }, []);
     return createElement(tagName, {
         ref, style: width ? {
-            width
+            'maxWidth': width
         } : {}, ...props
     }, text);
 };

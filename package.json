@@ -1,6 +1,6 @@
 {
   "name": "@kne/react-clamp",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "处理文本省略号",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
